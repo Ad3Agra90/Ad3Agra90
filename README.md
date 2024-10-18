@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=32&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile" alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center">
   <img height="150" src="cod_mobile.png"  />
 </div>
 
