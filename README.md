@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.gifer.com/Mr3W.gif"  />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQFnnqtgNKR6yg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721906668245?e=1734566400&v=beta&t=jUdN2KRdkDQ2G_eXA70aYkkPp-GfUeYdIul56cRcymM"  />
 
 ###
 
