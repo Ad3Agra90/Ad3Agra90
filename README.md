@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ad3Agra90&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Ad3Agra90&theme=react&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 #
