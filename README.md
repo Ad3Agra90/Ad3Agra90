@@ -76,7 +76,7 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ad3Agra90&theme=react&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=react&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 #
 
