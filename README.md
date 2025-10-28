@@ -4,9 +4,9 @@
   </a>
 </div>
 
-<div align="center">
-  <img height="150" src="cod_mobile.png"  />
-</div>
+//<div align="center">
+//  <img height="150" src="cod_mobile.png"  />
+//</div>
 
 ###
 
