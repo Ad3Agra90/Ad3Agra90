@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">Sou de Recife/PE<br><br>- 🔭 Atualmente estou trabalhando na 7 Sistemas de informática<br>- 📚 Sou formado em Análise e Desenvolvimento de Sistemas<br>- ⚡ Gosto de ler bons livros, passear com minha família, assistir bons filmes</p>
+<p align="left">Sou de Recife/PE<br><br>- 🔭 Atualmente estou trabalhando na 4Solve Solutions<br>- 📚 Sou formado em Análise e Desenvolvimento de Sistemas<br>- ⚡ Gosto de ler bons livros, passear com minha família, assistir bons filmes</p>
 
 ###
 
